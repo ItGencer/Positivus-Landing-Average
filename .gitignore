@@ -1,0 +1,3 @@
+# Ігнорувати папку node_modules та public
+node_modules/
+public/
